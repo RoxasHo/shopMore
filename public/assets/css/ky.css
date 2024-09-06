@@ -1,0 +1,187 @@
+.courierLogin {
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.courierimg {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.btnCourierLogin {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #e2e9e1;
+    height: 30px;
+    font-size: 13px;
+    width: 100%;
+    padding: .375rem .75rem;
+}
+
+.courier-readonly{
+    border-radius: 5px;
+    border: 1px solid #e2e9e1;
+    height: 35px;
+    font-size: medium;
+    width: 100%;
+    padding: .375rem .75rem;
+    margin-bottom: 20px;
+    background-color: rgb(231, 231, 231);
+}
+
+.convertPrice{
+    border-radius: 5px;
+    border: 1px solid #e2e9e1;
+    height: 35px;
+    font-size: medium;
+    width: 50%;
+    padding: .375rem .75rem;
+    margin-bottom: 20px;
+    background-color: rgb(231, 231, 231);
+}
+
+.formatted-order-items {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 20px;
+}
+
+.order-item {
+    margin-bottom: 5px;
+}
+
+.courier-dropdown{
+    border-radius: 5px;
+    border: 1px solid #e2e9e1;
+    height: 40px;
+    font-size: medium;
+    width: 100%;
+    padding: .375rem .75rem;
+}
+
+.currency{
+    border-radius: 5px;
+    border: 1px solid #e2e9e1;
+    height: 40px;
+    font-size: small;
+    width: 35%;
+    padding: .375rem .75rem;
+    float: right;
+}
+
+.btnCourierLogin {
+    width: 30%;
+}
+
+label {
+    margin-bottom: 5px;
+    display: inline-block;
+    font-weight: 400;
+    color: gray;
+}
+
+button[type='submit'] {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 12px 40px;
+    color: #ffffff;
+    border: none;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button[type='submit']:hover {
+    background-color: rgb(0, 102, 0) !important;
+}
+
+.tracking-table {
+    overflow-x: auto;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.btnRemove {
+    background-color: red;
+    border-radius: 5px;
+    font-size: medium;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    border-color: red;
+}
+
+.image.product-thumbnail a {
+    color:rgb(198, 14, 14);
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.couriertypeimg {
+    display: flex;
+    width: 40px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.couriertrckimg {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.trackingDetail{
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnPrint{
+    font-size: 13px;
+    padding: 8px 20px;
+    color: #ffffff;
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    float:right;
+    cursor: pointer;
+}
+
+.btnPrint:hover{
+    background-color: rgb(0, 102, 0) !important;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr; /* Three columns: flexible, auto, flexible */
+    align-items: center;
+}
+
+.text-left {
+    justify-self: start; /* Align left within the grid cell */
+}
+
+.text-right {
+    justify-self: end; /* Align right within the grid cell */
+}
