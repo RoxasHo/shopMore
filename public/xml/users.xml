@@ -1,0 +1,26 @@
+<!-- HKH -->
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <name>123</name>
+    <email>123@gmail.com</email>
+    <email_verified_at>null</email_verified_at>
+    <password>$2y$10$U9heRhm7Y7Klp8hZbYxm6e/BwPpmMiBth7BCkw83knuaR/ZI3SOHq</password>
+    <utype>ADM</utype>
+    <remember_token>xYlWP7eYcVbQRX2tTeNgqBXC593eEDNVhOvWV8gMyMNpuuVVPw7kjfURkAtz</remember_token>
+    <created_at>2024-04-29 19:38:52</created_at>
+    <updated_at>2024-04-29 19:38:52</updated_at>
+  </user>
+  <user>
+    <id>2</id>
+    <name>456</name>
+    <email>456@gmail.com</email>
+    <email_verified_at>null</email_verified_at>
+    <password>$2y$10$uouWBTr2ALU9X3EKtmQxluZN/8k4CXvN7iueIuGK55LS3u8kW.ppe</password>
+    <utype>USR</utype>
+    <remember_token>null</remember_token>
+    <created_at>2024-04-29 19:41:03</created_at>
+    <updated_at>2024-04-29 19:41:03</updated_at>
+  </user>
+</users>

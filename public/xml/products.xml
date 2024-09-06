@@ -1,0 +1,157 @@
+<!-- JOEY -->
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Smart LED TV</name>
+    <image>1715172668.png</image>
+    <price>699.99</price>
+    <stock>instock</stock>
+    <category>Electronics</category>
+    <date>2024-04-28 02:07:11</date>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Portable Bluetooth Speaker</name>
+    <image>1715172858.png</image>
+    <price>49.99</price>
+    <stock>instock</stock>
+    <category>Electronics</category>
+    <date>2024-04-28 03:19:36</date>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Digital Camera Kit</name>
+    <image>1715172982.png</image>
+    <price>999.99</price>
+    <stock>instock</stock>
+    <category>Electronics</category>
+    <date>2024-04-28 10:04:22</date>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Wireless Charging Pad</name>
+    <image>1715173088.png</image>
+    <price>29.99</price>
+    <stock>instock</stock>
+    <category>Electronics</category>
+    <date>2024-05-08 04:58:08</date>
+  </product>
+  <product>
+    <id>5</id>
+    <name>Robotic Vacuum Cleaner</name>
+    <image>1715173229.png</image>
+    <price>249.99</price>
+    <stock>instock</stock>
+    <category>Home and Kitchen</category>
+    <date>2024-05-08 05:00:29</date>
+  </product>
+  <product>
+    <id>6</id>
+    <name>Stainless Steel Blender</name>
+    <image>1715173342.png</image>
+    <price>79.99</price>
+    <stock>instock</stock>
+    <category>Home and Kitchen</category>
+    <date>2024-05-08 05:02:22</date>
+  </product>
+  <product>
+    <id>7</id>
+    <name>Non-Stick Cookware Set</name>
+    <image>1715173695.png</image>
+    <price>129.99</price>
+    <stock>instock</stock>
+    <category>Home and Kitchen</category>
+    <date>2024-05-08 05:08:15</date>
+  </product>
+  <product>
+    <id>8</id>
+    <name>Electric Pressure Cooker</name>
+    <image>1715173872.png</image>
+    <price>89.99</price>
+    <stock>instock</stock>
+    <category>Home and Kitchen</category>
+    <date>2024-05-08 05:11:12</date>
+  </product>
+  <product>
+    <id>9</id>
+    <name>Classic Men's Watch</name>
+    <image>1715174008.png</image>
+    <price>199.99</price>
+    <stock>instock</stock>
+    <category>Fashion</category>
+    <date>2024-05-08 05:13:28</date>
+  </product>
+  <product>
+    <id>10</id>
+    <name>Boho Chic Maxi Dress</name>
+    <image>1715174134.png</image>
+    <price>59.99</price>
+    <stock>instock</stock>
+    <category>Fashion</category>
+    <date>2024-05-08 05:15:34</date>
+  </product>
+  <product>
+    <id>11</id>
+    <name>Leather Crossbody Bag</name>
+    <image>1715174231.png</image>
+    <price>129.99</price>
+    <stock>instock</stock>
+    <category>Fashion</category>
+    <date>2024-05-08 05:17:11</date>
+  </product>
+  <product>
+    <id>12</id>
+    <name>Men's Slim Fit Suit</name>
+    <image>1715174336.png</image>
+    <price>299.99</price>
+    <stock>instock</stock>
+    <category>Fashion</category>
+    <date>2024-05-08 05:18:56</date>
+  </product>
+  <product>
+    <id>13</id>
+    <name>Premium Yoga Mat</name>
+    <image>1715174575.png</image>
+    <price>39.99</price>
+    <stock>instock</stock>
+    <category>Sports and Outdoors</category>
+    <date>2024-05-08 05:22:55</date>
+  </product>
+  <product>
+    <id>14</id>
+    <name>Camping Tent</name>
+    <image>1715174673.png</image>
+    <price>149.99</price>
+    <stock>instock</stock>
+    <category>Sports and Outdoors</category>
+    <date>2024-05-08 05:24:33</date>
+  </product>
+  <product>
+    <id>15</id>
+    <name>Fitness Tracker Watch</name>
+    <image>1715174756.png</image>
+    <price>79.99</price>
+    <stock>instock</stock>
+    <category>Sports and Outdoors</category>
+    <date>2024-05-08 05:25:56</date>
+  </product>
+  <product>
+    <id>16</id>
+    <name>Insulated Stainless Steel Water Bottle</name>
+    <image>1715174857.png</image>
+    <price>24.99</price>
+    <stock>instock</stock>
+    <category>Sports and Outdoors</category>
+    <date>2024-05-08 05:27:37</date>
+  </product>
+  <product>
+    <id>34</id>
+    <name>Test</name>
+    <image>1715499242.jpg</image>
+    <price>31321.00</price>
+    <stock>instock</stock>
+    <category>Home and Kitchen</category>
+    <date>2024-05-12 07:34:02</date>
+  </product>
+</products>
